@@ -87,10 +87,6 @@ The project is designed to be run in a sequence:
 
 ---
 
-### 🧠 The Journey & Key Learnings
-
-**(This is your section to shine! Talk about the story of the project.)**
-
 
 ### 🧠 The Journey & Key Learnings
 
