@@ -11,7 +11,7 @@ A fully interactive web application that uses unsupervised machine learning to d
 
 ### 🚀 Live Demo
 
-**[Link to your deployed Streamlit App will go here!]**
+**https://atharvkathe-fraudshield-appmain-feyfdv.streamlit.app/**
 
 ---
 
