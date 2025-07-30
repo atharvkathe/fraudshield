@@ -5,8 +5,6 @@
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-1.4+-orange?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-2.2+-purple?style=for-the-badge&logo=pandas&logoColor=white)
 
-A fully interactive web application that uses unsupervised machine learning to detect fraudulent financial transactions in real-time. This isn't just a script; it's a full-stack data science tool designed to be both powerful and user-friendly.
-
 ---
 
 ### 🚀 Live Demo
